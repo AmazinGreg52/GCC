@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: min(2vh, 20px) max(5vw, 30px);
+  color: white;
+  background: black;
+}
+
+header > .logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+header > nav > a {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  padding: 1em 2em;
+  font-size: 1.2rem;
+  transition: color 0.5s ease, 0.5s scale;
+}

@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 20;
+    font-family: 'Hind', serif;
+    font-size: 48px;
+    background: black;
+    color: white;
+
+    
+}
+
+.background2 {
+    background: white;
+
+
+}
+.background {
+  background: black;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
+
+.footer {
+  font-size: 20px;
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+

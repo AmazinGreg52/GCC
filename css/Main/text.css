@@ -1,0 +1,25 @@
+.subtitle {
+  font-size: x-large;
+  font-family: Hind;
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  vertical-align:middle;
+  color: white;
+  background: black;
+
+}
+
+.subpara {
+  font-size: large;
+  font-family: Hind;
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  vertical-align:middle;
+  color: white;
+  background: black;
+  text-align: center;
+}
+
+
